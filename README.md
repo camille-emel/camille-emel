@@ -36,7 +36,7 @@ Je suis **Concepteur développeur d'applications** en formation au [Campus Numé
 - **Email** : <a href="mailto:emelcamille@gmail.com" target="_blank">emelcamille@gmail.com</a>
 - **LinkedIn** : <a href="https://www.linkedin.com/in/camille-emel" target="_blank">camille-emel</a>
 
-![Visiteurs](https://hits.dwyl.com/camille-emel/camille-emel.svg)
+
 
 
 ---
@@ -48,3 +48,4 @@ Je suis **Concepteur développeur d'applications** en formation au [Campus Numé
 
 ---
 
+![Visiteurs](https://hits.dwyl.com/camille-emel/camille-emel.svg)
